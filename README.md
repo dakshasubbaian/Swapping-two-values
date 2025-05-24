@@ -21,7 +21,7 @@ End the program
 ```
 #Program to swap two values.
 #Developed by:Daksha Subbaian
-#RegisterNumber:23003584
+#RegisterNumber:212223230036
 swap1=input()
 swap2=input()
 swap3=swap1
@@ -30,8 +30,7 @@ swap2=swap3
 print("Swapped values are:",swap1,swap2)
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/7353dd9f-446c-412e-a0aa-dc80812ceec5)
-
+![image](https://github.com/user-attachments/assets/d85f0805-3f2d-4e3c-bfb1-d082ff1dd91e)
 
 
 
