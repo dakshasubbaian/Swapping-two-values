@@ -30,7 +30,8 @@ swap2=swap3
 print("Swapped values are:",swap1,swap2)
 ```
 ## OUTPUT:
-![output](/output1a.png)
+![image](https://github.com/user-attachments/assets/7353dd9f-446c-412e-a0aa-dc80812ceec5)
+
 
 
 
